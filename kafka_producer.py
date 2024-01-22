@@ -9,7 +9,7 @@ import json
 from typing import Union
 
 
-
+#function to read csv file
 def read_csv(file_path):
 
     data = []
@@ -24,6 +24,7 @@ def read_csv(file_path):
 
     return data
 
+#flight Schema 
 flight_schema = {
      'dt_iso': str,
      'Flight Date':str ,
@@ -56,7 +57,7 @@ if __name__ == "__main__":
 
    
 
-    # Sort weather data by timestamp
+    # Sort flight data by timestamp
 
     flight_data = sorted(flight_data, key=lambda x: (x['dt_iso']))
 
@@ -81,9 +82,7 @@ if __name__ == "__main__":
 
         print(f"Sent message to {flight_topic}: {casted_record_flight_serializable}")
 
-        print("___________________________")
-
-        time.sleep(3)
+        time.sleep(4)
 
 
 
