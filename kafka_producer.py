@@ -26,7 +26,6 @@ def read_csv(file_path):
 
 #flight Schema 
 flight_schema = {
-     'dt_iso': str,
      'Flight Date':str ,
      'Flight Status': str,
      'Departure Airport': str,
@@ -43,25 +42,18 @@ flight_schema = {
 
 if __name__ == "__main__":
 
-    bootstrap_servers = 'localhost:9093'
+    bootstrap_servers = 'localhost:9092'
 
 
 
     # For Flight data
-
     flight_data_path = "flight_data.csv"
-
+    #topic name 
     flight_topic = "flight"
-
+    #read csv file using read_csv function
     flight_data = read_csv(flight_data_path)
 
    
-
-    # Sort flight data by timestamp
-
-    flight_data = sorted(flight_data, key=lambda x: (x['dt_iso']))
-
-
 
     # Create a Kafka producer
 
@@ -69,25 +61,22 @@ if __name__ == "__main__":
 
 
 
-    # Send data to both Kafka topics simultaneously
+    # Send data to Kafka topic
+    for line in flight_data:
+        # Cast the record_flight values based on the flight_schema
+        flight_data = {}
+        for key, value in flight_schema.items():
+            if line[key] != '':
+                flight_data[key] = value(line[key])
+            else:
+                flight_data[key] = None
 
-    for record_flight in flight_data:
+        # Serialize the casted record and send it to Kafka
+        producer.send(flight_topic, value=flight_data)
+        print(f"Sent message to {flight_topic}: {flight_data}")
 
-        # Send flight data for the same timestamp
-        casted_record_flight = {key: flight_schema[key](record_flight[key]) if record_flight[key] != '' else None for key in flight_schema}
-
-        casted_record_flight_serializable = {key: value if value is None or isinstance(value, (int, float, str, bool, list, dict)) else str(value) for key, value in casted_record_flight.items()}
-
-        producer.send(flight_topic, value=casted_record_flight_serializable)
-
-        print(f"Sent message to {flight_topic}: {casted_record_flight_serializable}")
-
-        time.sleep(4)
-
-
+        time.sleep(1)
 
     # Flush and close the producer
-
     producer.flush()
-
     producer.close()
