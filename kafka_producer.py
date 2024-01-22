@@ -6,6 +6,8 @@ import time
 
 import json
 
+from typing import Union
+
 
 
 def read_csv(file_path):
@@ -23,9 +25,19 @@ def read_csv(file_path):
     return data
 
 flight_schema = {
-
-    
-   
+     'dt_iso': str,
+     'Flight Date':str ,
+     'Flight Status': str,
+     'Departure Airport': str,
+     'Departure Scheduled': str,
+     'Delay-dep': Union[None,int],
+     'Arrival Airport': str,
+     'Arrival Scheduled': str,
+     'Delay-arr':Union[None,int],
+     'Airline Name': str,
+     'Flight Number': int,
+     'Flight IATA': str,
+     'Flight ICAO': str  
 }
 
 if __name__ == "__main__":
@@ -71,7 +83,7 @@ if __name__ == "__main__":
 
         print("___________________________")
 
-        time.sleep(1)
+        time.sleep(3)
 
 
 
