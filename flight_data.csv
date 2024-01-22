@@ -1,0 +1,707 @@
+Flight Date,Flight Status,Departure Airport,Departure Scheduled,Delay-dep,Arrival Airport,Arrival Scheduled,Delay-arr,Airline Name,Flight Number,Flight IATA,Flight ICAO
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:01:00+00:00,,Kansai International,2024-01-23 07:00:00+00:00,,Vietnam Airlines,320,VN320,HVN320
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Miat - Mongolian Airlines,5612,OM5612,MGL5612
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,British Airways,4140,BA4140,BAW4140
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Schiphol,2024-01-23 08:00:00+00:00,,China Southern Airlines,449,CZ449,CSN449
+2024-01-23 00:00:00,scheduled,Dalian,2024-01-23 00:05:00+00:00,,Kansai International,2024-01-23 03:20:00+00:00,,China Postal Airlines,241,CF241,CYZ241
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:15:00+00:00,,Shanghai Pudong International,2024-01-23 01:35:00+00:00,,China Cargo,248,CK248,CKK248
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:30:00+00:00,,Dubai,2024-01-23 04:10:00+00:00,,Emirates,353,EK353,UAE353
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:50:00+00:00,,SF Airlines,7103,O37103,CSS7103
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Hangzhou,2024-01-23 02:55:00+00:00,,SF Airlines,7107,O37107,CSS7107
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Lufthansa,7015,LH7015,DLH7015
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Cathay Pacific,289,CX289,CPA289
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:55:00+00:00,,San Francisco International,2024-01-22 21:00:00+00:00,,Malaysia Airlines,9198,MH9198,MAS9198
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:40:00+00:00,,Newark Liberty International,2024-01-23 05:30:00+00:00,,Singapore Airlines,22,SQ22,SIA22
+2024-01-23 00:00:00,scheduled,Tianjin Binhai International,2024-01-23 00:10:00+00:00,,Shanghai Pudong International,2024-01-23 02:20:00+00:00,,Suparna Airlines,7404,Y87404,YZR7404
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Heydar Aliyev International (Bina International),2024-01-23 05:00:00+00:00,,AZAL Azerbaijan Airlines,68,J268,AHY68
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:05:00+00:00,,Gimhae,2024-01-23 07:00:00+00:00,,VietJet Air,868,VJ868,VJC868
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:55:00+00:00,,Schiphol,2024-01-23 07:05:00+00:00,,Korean Air,5925,KE5925,KAL5925
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:30:00+00:00,,Shenzhen,2024-01-23 04:20:00+00:00,,SF Airlines,7105,O37105,CSS7105
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,LATAM Airlines,4813,LA4813,LAN4813
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,China Eastern Airlines,4015,MU4015,CES4015
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 02:50:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:50:00+00:00,,Airwork,82,,AWK82
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:40:00+00:00,,Seoul (Incheon),2024-01-23 06:40:00+00:00,,Jeju Air,3105,7C3105,JJA3105
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:55:00+00:00,,Gimhae,2024-01-23 06:30:00+00:00,,Jin Air,930,LJ930,JNA930
+2024-01-23 00:00:00,scheduled,Christchurch International,2024-01-23 06:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,Qantas,138,QF138,QFA138
+2024-01-23 00:00:00,scheduled,Ngurah Rai International,2024-01-23 00:10:00+00:00,,Doha International,2024-01-23 05:00:00+00:00,,Finnair,6672,AY6672,FIN6672
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 01:30:00+00:00,,Seoul (Incheon),2024-01-23 04:10:00+00:00,,Asiana Airlines,177,OZ177,AAR177
+2024-01-23 00:00:00,scheduled,Tianhe International,2024-01-23 00:15:00+00:00,,Hangzhou,2024-01-23 01:35:00+00:00,,SF Airlines,7463,O37463,CSS7463
+2024-01-23 00:00:00,cancelled,Hasanudin,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 03:55:00+00:00,,Malaysia Airlines,846,MH846,MAS846
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Bole International,2024-01-23 06:00:00+00:00,,Ethiopian Airlines,607,ET607,ETH607
+2024-01-23 00:00:00,scheduled,Woodbourne Air Station,2024-01-23 06:00:00+00:00,,Auckland International,2024-01-23 07:30:00+00:00,,Qantas,8508,QF8508,QFA8508
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,SWISS,9003,LX9003,SWR9003
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Lufthansa,9753,LH9753,DLH9753
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 04:10:00+00:00,,Christchurch International,2024-01-23 05:25:00+00:00,,Qantas,7523,QF7523,QFA7523
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:10:00+00:00,,Adelaide International Airport,2024-01-23 02:51:00+00:00,,Pionair Australia,7223,,SFZ7223
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 01:15:00+00:00,,Xianyang,2024-01-23 04:25:00+00:00,,Shandong Airlines,2434,SC2434,CDG2434
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:30:00+00:00,,Launceston,2024-01-23 03:30:00+00:00,,Qantas,7356,QF7356,QFA7356
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:10:00+00:00,,Franz Josef Strauss,2024-01-23 06:40:00+00:00,,Lufthansa,727,LH727,DLH727
+2024-01-23 00:00:00,scheduled,Wellington International,2024-01-23 06:00:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 08:05:00+00:00,,Thai Airways International,4844,TG4844,THA4844
+2024-01-23 00:00:00,scheduled,Jeju Airport,2024-01-23 00:55:00+00:00,,Cheongju,2024-01-23 02:00:00+00:00,,Aero K,602,RF602,EOK602
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:05:00+00:00,,Beijing Capital International,2024-01-23 02:40:00+00:00,,SF Airlines,7114,O37114,CSS7114
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:45:00+00:00,,Suvarnabhumi International,2024-01-23 05:00:00+00:00,,JAL,727,JL727,JAL727
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 04:30:00+00:00,,Qantas,7454,QF7454,QFA7454
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,LATAM Airlines,8928,LA8928,LAN8928
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Qatar Airways,4970,QR4970,QTR4970
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Turkish Airlines,4802,TK4802,THY4802
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,SriLankan Airlines,2120,UL2120,ALK2120
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Oman Air,5585,WY5585,OMA5585
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Malaysia Airlines,132,MH132,MAS132
+2024-01-23 00:00:00,scheduled,Kunming,2024-01-23 00:15:00+00:00,,Nanjing Lukou International Airport,2024-01-23 03:00:00+00:00,,China Postal Airlines,9017,CF9017,CYZ9017
+2024-01-23 00:00:00,scheduled,Lanzhou Zhongchuan Airport,2024-01-23 00:05:00+00:00,,Nanjing Lukou International Airport,2024-01-23 02:45:00+00:00,,China Postal Airlines,9001,CF9001,CYZ9001
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:20:00+00:00,,Qantas,7405,QF7405,QFA7405
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:05:00+00:00,,Brisbane International,2024-01-23 01:35:00+00:00,,Qantas,7420,QF7420,QFA7420
+2024-01-23 00:00:00,scheduled,Shenyang,2024-01-23 00:40:00+00:00,,Changchun,2024-01-23 02:10:00+00:00,,Air China LTD,1088,CA1088,CCA1088
+2024-01-23 00:00:00,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),2024-01-23 00:10:00+00:00,,Xiamen,2024-01-23 01:30:00+00:00,,China Airlines,5991,CI5991,CAL5991
+2024-01-23 00:00:00,scheduled,Yancheng,2024-01-23 00:05:00+00:00,,Seoul (Incheon),2024-01-23 03:30:00+00:00,,YTO Cargo Airlines,9073,YG9073,HYT9073
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Air France,4022,AF4022,AFR4022
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Aircalin,740,SB740,ACI740
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Firefly,7170,FY7170,FFM7170
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Myanmar Airways International,9588,8M9588,MMA9588
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Singapore Airlines,282,SQ282,SIA282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Vistara,8282,UK8282,VTI8282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Air New Zealand,3282,NZ3282,ANZ3282
+2024-01-23 00:00:00,scheduled,Nanchang,2024-01-23 00:30:00+00:00,,Nanning,2024-01-23 02:50:00+00:00,,China Postal Airlines,9024,CF9024,CYZ9024
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:05:00+00:00,,Zurich,2024-01-23 06:10:00+00:00,,SWISS,177,LX177,SWR177
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:15:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:10:00+00:00,,Korean Air,9319,KE9319,KAL9319
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Firefly,7146,FY7146,FFM7146
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Qantas,7341,QF7341,QFA7341
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Suvarnabhumi International,2024-01-23 05:40:00+00:00,,Thai Airways International,462,TG462,THA462
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Malaysia Airlines,128,MH128,MAS128
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:35:00+00:00,,Singapore Changi,2024-01-23 05:15:00+00:00,,Singapore Airlines,218,SQ218,SIA218
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Cathay Pacific,178,CX178,CPA178
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 06:30:00+00:00,,AirAsia X,213,D7213,XAX213
+2024-01-23 00:00:00,scheduled,Lishe International Airport,2024-01-23 00:05:00+00:00,,Suvarnabhumi International,2024-01-23 03:35:00+00:00,,YTO Cargo Airlines,9017,YG9017,HYT9017
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:25:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Qantas,7445,QF7445,QFA7445
+2024-01-23 00:00:00,scheduled,Hangzhou,2024-01-23 00:10:00+00:00,,Kansai International,2024-01-23 04:50:00+00:00,,YTO Cargo Airlines,9133,YG9133,HYT9133
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 03:15:00+00:00,,Adelaide International Airport,2024-01-23 05:00:00+00:00,,Qantas,7448,QF7448,QFA7448
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Perth International,2024-01-23 03:35:00+00:00,,Qantas,7349,QF7349,QFA7349
+2024-01-23 00:00:00,scheduled,Beijing Daxing International Airport,2024-01-23 00:15:00+00:00,,Kota-Kinabalu International Airport,2024-01-23 05:45:00+00:00,,AirAsia,1561,AK1561,AXM1561
+2024-01-23 00:00:00,scheduled,Shenzhen,2024-01-23 00:15:00+00:00,,Madras International (Meenambakkam),2024-01-23 02:15:00+00:00,,SF Airlines,7069,O37069,CSS7069
+2024-01-23 00:00:00,scheduled,Horn Island,2024-01-23 01:00:00+00:00,,Badu Island,2024-01-23 01:20:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Qantas,5671,QF5671,QFA5671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,LATAM Airlines,5713,LA5713,LAN5713
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Jetstar,671,JQ671,JST671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Qantas,5580,QF5580,QFA5580
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,KLM,3545,KL3545,KLM3545
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Jetstar,83,JQ83,JST83
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Qantas,5673,QF5673,QFA5673
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Jetstar,673,JQ673,JST673
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:45:00+00:00,,Qantas,7404,QF7404,QFA7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:38:00+00:00,,National Jet Express,7404,NC7404,JTE7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:40:00+00:00,,Hong Kong International,2024-01-23 07:30:00+00:00,,Cathay Pacific,156,CX156,CPA156
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:05:00+00:00,,Qantas,7305,QF7305,QFA7305
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:20:00+00:00,,Singapore Changi,2024-01-23 04:16:00+00:00,,Singapore Airlines,8515,SQ8515,SIA8515
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:30:00+00:00,,Tan Son Nhat International,2024-01-23 05:55:00+00:00,,VietJet Air,82,VJ82,VJC82
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:10:00+00:00,,Perth International,2024-01-23 04:25:00+00:00,,Qantas,7359,QF7359,QFA7359
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Brisbane International,2024-01-23 02:42:00+00:00,,Texel Air,203,,XLR203
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 03:05:00+00:00,,Pionair Australia,7294,,SFZ7294
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:20:00+00:00,,Wuxi,2024-01-23 02:10:00+00:00,,SF Airlines,6939,O36939,CSS6939
+2024-01-23 00:00:00,scheduled,Townsville International,2024-01-23 01:00:00+00:00,,Gold Coast (coolangatta),2024-01-23 02:43:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 00:05:00+00:00,,Dubai,2024-01-23 06:55:00+00:00,,Emirates,313,EK313,UAE313
+Flight Date,Flight Status,Departure Airport,Departure Scheduled,Delay-dep,Arrival Airport,Arrival Scheduled,Delay-arr,Airline Name,Flight Number,Flight IATA,Flight ICAO
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:01:00+00:00,,Kansai International,2024-01-23 07:00:00+00:00,,Vietnam Airlines,320,VN320,HVN320
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Miat - Mongolian Airlines,5612,OM5612,MGL5612
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,British Airways,4140,BA4140,BAW4140
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Schiphol,2024-01-23 08:00:00+00:00,,China Southern Airlines,449,CZ449,CSN449
+2024-01-23 00:00:00,scheduled,Dalian,2024-01-23 00:05:00+00:00,,Kansai International,2024-01-23 03:20:00+00:00,,China Postal Airlines,241,CF241,CYZ241
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:15:00+00:00,,Shanghai Pudong International,2024-01-23 01:35:00+00:00,,China Cargo,248,CK248,CKK248
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:30:00+00:00,,Dubai,2024-01-23 04:10:00+00:00,,Emirates,353,EK353,UAE353
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:50:00+00:00,,SF Airlines,7103,O37103,CSS7103
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Hangzhou,2024-01-23 02:55:00+00:00,,SF Airlines,7107,O37107,CSS7107
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Lufthansa,7015,LH7015,DLH7015
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Cathay Pacific,289,CX289,CPA289
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:55:00+00:00,,San Francisco International,2024-01-22 21:00:00+00:00,,Malaysia Airlines,9198,MH9198,MAS9198
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:40:00+00:00,,Newark Liberty International,2024-01-23 05:30:00+00:00,,Singapore Airlines,22,SQ22,SIA22
+2024-01-23 00:00:00,scheduled,Tianjin Binhai International,2024-01-23 00:10:00+00:00,,Shanghai Pudong International,2024-01-23 02:20:00+00:00,,Suparna Airlines,7404,Y87404,YZR7404
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Heydar Aliyev International (Bina International),2024-01-23 05:00:00+00:00,,AZAL Azerbaijan Airlines,68,J268,AHY68
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:05:00+00:00,,Gimhae,2024-01-23 07:00:00+00:00,,VietJet Air,868,VJ868,VJC868
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:55:00+00:00,,Schiphol,2024-01-23 07:05:00+00:00,,Korean Air,5925,KE5925,KAL5925
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:30:00+00:00,,Shenzhen,2024-01-23 04:20:00+00:00,,SF Airlines,7105,O37105,CSS7105
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,LATAM Airlines,4813,LA4813,LAN4813
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,China Eastern Airlines,4015,MU4015,CES4015
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 02:50:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:50:00+00:00,,Airwork,82,,AWK82
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:40:00+00:00,,Seoul (Incheon),2024-01-23 06:40:00+00:00,,Jeju Air,3105,7C3105,JJA3105
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:55:00+00:00,,Gimhae,2024-01-23 06:30:00+00:00,,Jin Air,930,LJ930,JNA930
+2024-01-23 00:00:00,scheduled,Christchurch International,2024-01-23 06:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,Qantas,138,QF138,QFA138
+2024-01-23 00:00:00,scheduled,Ngurah Rai International,2024-01-23 00:10:00+00:00,,Doha International,2024-01-23 05:00:00+00:00,,Finnair,6672,AY6672,FIN6672
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 01:30:00+00:00,,Seoul (Incheon),2024-01-23 04:10:00+00:00,,Asiana Airlines,177,OZ177,AAR177
+2024-01-23 00:00:00,scheduled,Tianhe International,2024-01-23 00:15:00+00:00,,Hangzhou,2024-01-23 01:35:00+00:00,,SF Airlines,7463,O37463,CSS7463
+2024-01-23 00:00:00,cancelled,Hasanudin,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 03:55:00+00:00,,Malaysia Airlines,846,MH846,MAS846
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Bole International,2024-01-23 06:00:00+00:00,,Ethiopian Airlines,607,ET607,ETH607
+2024-01-23 00:00:00,scheduled,Woodbourne Air Station,2024-01-23 06:00:00+00:00,,Auckland International,2024-01-23 07:30:00+00:00,,Qantas,8508,QF8508,QFA8508
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,SWISS,9003,LX9003,SWR9003
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Lufthansa,9753,LH9753,DLH9753
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 04:10:00+00:00,,Christchurch International,2024-01-23 05:25:00+00:00,,Qantas,7523,QF7523,QFA7523
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:10:00+00:00,,Adelaide International Airport,2024-01-23 02:51:00+00:00,,Pionair Australia,7223,,SFZ7223
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 01:15:00+00:00,,Xianyang,2024-01-23 04:25:00+00:00,,Shandong Airlines,2434,SC2434,CDG2434
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:30:00+00:00,,Launceston,2024-01-23 03:30:00+00:00,,Qantas,7356,QF7356,QFA7356
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:10:00+00:00,,Franz Josef Strauss,2024-01-23 06:40:00+00:00,,Lufthansa,727,LH727,DLH727
+2024-01-23 00:00:00,scheduled,Wellington International,2024-01-23 06:00:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 08:05:00+00:00,,Thai Airways International,4844,TG4844,THA4844
+2024-01-23 00:00:00,scheduled,Jeju Airport,2024-01-23 00:55:00+00:00,,Cheongju,2024-01-23 02:00:00+00:00,,Aero K,602,RF602,EOK602
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:05:00+00:00,,Beijing Capital International,2024-01-23 02:40:00+00:00,,SF Airlines,7114,O37114,CSS7114
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:45:00+00:00,,Suvarnabhumi International,2024-01-23 05:00:00+00:00,,JAL,727,JL727,JAL727
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 04:30:00+00:00,,Qantas,7454,QF7454,QFA7454
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,LATAM Airlines,8928,LA8928,LAN8928
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Qatar Airways,4970,QR4970,QTR4970
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Turkish Airlines,4802,TK4802,THY4802
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,SriLankan Airlines,2120,UL2120,ALK2120
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Oman Air,5585,WY5585,OMA5585
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Malaysia Airlines,132,MH132,MAS132
+2024-01-23 00:00:00,scheduled,Kunming,2024-01-23 00:15:00+00:00,,Nanjing Lukou International Airport,2024-01-23 03:00:00+00:00,,China Postal Airlines,9017,CF9017,CYZ9017
+2024-01-23 00:00:00,scheduled,Lanzhou Zhongchuan Airport,2024-01-23 00:05:00+00:00,,Nanjing Lukou International Airport,2024-01-23 02:45:00+00:00,,China Postal Airlines,9001,CF9001,CYZ9001
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:20:00+00:00,,Qantas,7405,QF7405,QFA7405
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:05:00+00:00,,Brisbane International,2024-01-23 01:35:00+00:00,,Qantas,7420,QF7420,QFA7420
+2024-01-23 00:00:00,scheduled,Shenyang,2024-01-23 00:40:00+00:00,,Changchun,2024-01-23 02:10:00+00:00,,Air China LTD,1088,CA1088,CCA1088
+2024-01-23 00:00:00,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),2024-01-23 00:10:00+00:00,,Xiamen,2024-01-23 01:30:00+00:00,,China Airlines,5991,CI5991,CAL5991
+2024-01-23 00:00:00,scheduled,Yancheng,2024-01-23 00:05:00+00:00,,Seoul (Incheon),2024-01-23 03:30:00+00:00,,YTO Cargo Airlines,9073,YG9073,HYT9073
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Air France,4022,AF4022,AFR4022
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Aircalin,740,SB740,ACI740
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Firefly,7170,FY7170,FFM7170
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Myanmar Airways International,9588,8M9588,MMA9588
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Singapore Airlines,282,SQ282,SIA282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Vistara,8282,UK8282,VTI8282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Air New Zealand,3282,NZ3282,ANZ3282
+2024-01-23 00:00:00,scheduled,Nanchang,2024-01-23 00:30:00+00:00,,Nanning,2024-01-23 02:50:00+00:00,,China Postal Airlines,9024,CF9024,CYZ9024
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:05:00+00:00,,Zurich,2024-01-23 06:10:00+00:00,,SWISS,177,LX177,SWR177
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:15:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:10:00+00:00,,Korean Air,9319,KE9319,KAL9319
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Firefly,7146,FY7146,FFM7146
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Qantas,7341,QF7341,QFA7341
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Suvarnabhumi International,2024-01-23 05:40:00+00:00,,Thai Airways International,462,TG462,THA462
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Malaysia Airlines,128,MH128,MAS128
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:35:00+00:00,,Singapore Changi,2024-01-23 05:15:00+00:00,,Singapore Airlines,218,SQ218,SIA218
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Cathay Pacific,178,CX178,CPA178
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 06:30:00+00:00,,AirAsia X,213,D7213,XAX213
+2024-01-23 00:00:00,scheduled,Lishe International Airport,2024-01-23 00:05:00+00:00,,Suvarnabhumi International,2024-01-23 03:35:00+00:00,,YTO Cargo Airlines,9017,YG9017,HYT9017
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:25:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Qantas,7445,QF7445,QFA7445
+2024-01-23 00:00:00,scheduled,Hangzhou,2024-01-23 00:10:00+00:00,,Kansai International,2024-01-23 04:50:00+00:00,,YTO Cargo Airlines,9133,YG9133,HYT9133
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 03:15:00+00:00,,Adelaide International Airport,2024-01-23 05:00:00+00:00,,Qantas,7448,QF7448,QFA7448
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Perth International,2024-01-23 03:35:00+00:00,,Qantas,7349,QF7349,QFA7349
+2024-01-23 00:00:00,scheduled,Beijing Daxing International Airport,2024-01-23 00:15:00+00:00,,Kota-Kinabalu International Airport,2024-01-23 05:45:00+00:00,,AirAsia,1561,AK1561,AXM1561
+2024-01-23 00:00:00,scheduled,Shenzhen,2024-01-23 00:15:00+00:00,,Madras International (Meenambakkam),2024-01-23 02:15:00+00:00,,SF Airlines,7069,O37069,CSS7069
+2024-01-23 00:00:00,scheduled,Horn Island,2024-01-23 01:00:00+00:00,,Badu Island,2024-01-23 01:20:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Qantas,5671,QF5671,QFA5671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,LATAM Airlines,5713,LA5713,LAN5713
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Jetstar,671,JQ671,JST671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Qantas,5580,QF5580,QFA5580
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,KLM,3545,KL3545,KLM3545
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Jetstar,83,JQ83,JST83
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Qantas,5673,QF5673,QFA5673
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Jetstar,673,JQ673,JST673
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:45:00+00:00,,Qantas,7404,QF7404,QFA7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:38:00+00:00,,National Jet Express,7404,NC7404,JTE7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:40:00+00:00,,Hong Kong International,2024-01-23 07:30:00+00:00,,Cathay Pacific,156,CX156,CPA156
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:05:00+00:00,,Qantas,7305,QF7305,QFA7305
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:20:00+00:00,,Singapore Changi,2024-01-23 04:16:00+00:00,,Singapore Airlines,8515,SQ8515,SIA8515
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:30:00+00:00,,Tan Son Nhat International,2024-01-23 05:55:00+00:00,,VietJet Air,82,VJ82,VJC82
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:10:00+00:00,,Perth International,2024-01-23 04:25:00+00:00,,Qantas,7359,QF7359,QFA7359
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Brisbane International,2024-01-23 02:42:00+00:00,,Texel Air,203,,XLR203
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 03:05:00+00:00,,Pionair Australia,7294,,SFZ7294
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:20:00+00:00,,Wuxi,2024-01-23 02:10:00+00:00,,SF Airlines,6939,O36939,CSS6939
+2024-01-23 00:00:00,scheduled,Townsville International,2024-01-23 01:00:00+00:00,,Gold Coast (coolangatta),2024-01-23 02:43:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 00:05:00+00:00,,Dubai,2024-01-23 06:55:00+00:00,,Emirates,313,EK313,UAE313
+Flight Date,Flight Status,Departure Airport,Departure Scheduled,Delay-dep,Arrival Airport,Arrival Scheduled,Delay-arr,Airline Name,Flight Number,Flight IATA,Flight ICAO
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:01:00+00:00,,Kansai International,2024-01-23 07:00:00+00:00,,Vietnam Airlines,320,VN320,HVN320
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Miat - Mongolian Airlines,5612,OM5612,MGL5612
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,British Airways,4140,BA4140,BAW4140
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Schiphol,2024-01-23 08:00:00+00:00,,China Southern Airlines,449,CZ449,CSN449
+2024-01-23 00:00:00,scheduled,Dalian,2024-01-23 00:05:00+00:00,,Kansai International,2024-01-23 03:20:00+00:00,,China Postal Airlines,241,CF241,CYZ241
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:15:00+00:00,,Shanghai Pudong International,2024-01-23 01:35:00+00:00,,China Cargo,248,CK248,CKK248
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:30:00+00:00,,Dubai,2024-01-23 04:10:00+00:00,,Emirates,353,EK353,UAE353
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:50:00+00:00,,SF Airlines,7103,O37103,CSS7103
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Hangzhou,2024-01-23 02:55:00+00:00,,SF Airlines,7107,O37107,CSS7107
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Lufthansa,7015,LH7015,DLH7015
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Cathay Pacific,289,CX289,CPA289
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:55:00+00:00,,San Francisco International,2024-01-22 21:00:00+00:00,,Malaysia Airlines,9198,MH9198,MAS9198
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:40:00+00:00,,Newark Liberty International,2024-01-23 05:30:00+00:00,,Singapore Airlines,22,SQ22,SIA22
+2024-01-23 00:00:00,scheduled,Tianjin Binhai International,2024-01-23 00:10:00+00:00,,Shanghai Pudong International,2024-01-23 02:20:00+00:00,,Suparna Airlines,7404,Y87404,YZR7404
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Heydar Aliyev International (Bina International),2024-01-23 05:00:00+00:00,,AZAL Azerbaijan Airlines,68,J268,AHY68
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:05:00+00:00,,Gimhae,2024-01-23 07:00:00+00:00,,VietJet Air,868,VJ868,VJC868
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:55:00+00:00,,Schiphol,2024-01-23 07:05:00+00:00,,Korean Air,5925,KE5925,KAL5925
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:30:00+00:00,,Shenzhen,2024-01-23 04:20:00+00:00,,SF Airlines,7105,O37105,CSS7105
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,LATAM Airlines,4813,LA4813,LAN4813
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,China Eastern Airlines,4015,MU4015,CES4015
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 02:50:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:50:00+00:00,,Airwork,82,,AWK82
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:40:00+00:00,,Seoul (Incheon),2024-01-23 06:40:00+00:00,,Jeju Air,3105,7C3105,JJA3105
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:55:00+00:00,,Gimhae,2024-01-23 06:30:00+00:00,,Jin Air,930,LJ930,JNA930
+2024-01-23 00:00:00,scheduled,Christchurch International,2024-01-23 06:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,Qantas,138,QF138,QFA138
+2024-01-23 00:00:00,scheduled,Ngurah Rai International,2024-01-23 00:10:00+00:00,,Doha International,2024-01-23 05:00:00+00:00,,Finnair,6672,AY6672,FIN6672
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 01:30:00+00:00,,Seoul (Incheon),2024-01-23 04:10:00+00:00,,Asiana Airlines,177,OZ177,AAR177
+2024-01-23 00:00:00,scheduled,Tianhe International,2024-01-23 00:15:00+00:00,,Hangzhou,2024-01-23 01:35:00+00:00,,SF Airlines,7463,O37463,CSS7463
+2024-01-23 00:00:00,cancelled,Hasanudin,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 03:55:00+00:00,,Malaysia Airlines,846,MH846,MAS846
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Bole International,2024-01-23 06:00:00+00:00,,Ethiopian Airlines,607,ET607,ETH607
+2024-01-23 00:00:00,scheduled,Woodbourne Air Station,2024-01-23 06:00:00+00:00,,Auckland International,2024-01-23 07:30:00+00:00,,Qantas,8508,QF8508,QFA8508
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,SWISS,9003,LX9003,SWR9003
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Lufthansa,9753,LH9753,DLH9753
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 04:10:00+00:00,,Christchurch International,2024-01-23 05:25:00+00:00,,Qantas,7523,QF7523,QFA7523
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:10:00+00:00,,Adelaide International Airport,2024-01-23 02:51:00+00:00,,Pionair Australia,7223,,SFZ7223
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 01:15:00+00:00,,Xianyang,2024-01-23 04:25:00+00:00,,Shandong Airlines,2434,SC2434,CDG2434
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:30:00+00:00,,Launceston,2024-01-23 03:30:00+00:00,,Qantas,7356,QF7356,QFA7356
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:10:00+00:00,,Franz Josef Strauss,2024-01-23 06:40:00+00:00,,Lufthansa,727,LH727,DLH727
+2024-01-23 00:00:00,scheduled,Wellington International,2024-01-23 06:00:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 08:05:00+00:00,,Thai Airways International,4844,TG4844,THA4844
+2024-01-23 00:00:00,scheduled,Jeju Airport,2024-01-23 00:55:00+00:00,,Cheongju,2024-01-23 02:00:00+00:00,,Aero K,602,RF602,EOK602
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:05:00+00:00,,Beijing Capital International,2024-01-23 02:40:00+00:00,,SF Airlines,7114,O37114,CSS7114
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:45:00+00:00,,Suvarnabhumi International,2024-01-23 05:00:00+00:00,,JAL,727,JL727,JAL727
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 04:30:00+00:00,,Qantas,7454,QF7454,QFA7454
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,LATAM Airlines,8928,LA8928,LAN8928
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Qatar Airways,4970,QR4970,QTR4970
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Turkish Airlines,4802,TK4802,THY4802
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,SriLankan Airlines,2120,UL2120,ALK2120
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Oman Air,5585,WY5585,OMA5585
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Malaysia Airlines,132,MH132,MAS132
+2024-01-23 00:00:00,scheduled,Kunming,2024-01-23 00:15:00+00:00,,Nanjing Lukou International Airport,2024-01-23 03:00:00+00:00,,China Postal Airlines,9017,CF9017,CYZ9017
+2024-01-23 00:00:00,scheduled,Lanzhou Zhongchuan Airport,2024-01-23 00:05:00+00:00,,Nanjing Lukou International Airport,2024-01-23 02:45:00+00:00,,China Postal Airlines,9001,CF9001,CYZ9001
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:20:00+00:00,,Qantas,7405,QF7405,QFA7405
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:05:00+00:00,,Brisbane International,2024-01-23 01:35:00+00:00,,Qantas,7420,QF7420,QFA7420
+2024-01-23 00:00:00,scheduled,Shenyang,2024-01-23 00:40:00+00:00,,Changchun,2024-01-23 02:10:00+00:00,,Air China LTD,1088,CA1088,CCA1088
+2024-01-23 00:00:00,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),2024-01-23 00:10:00+00:00,,Xiamen,2024-01-23 01:30:00+00:00,,China Airlines,5991,CI5991,CAL5991
+2024-01-23 00:00:00,scheduled,Yancheng,2024-01-23 00:05:00+00:00,,Seoul (Incheon),2024-01-23 03:30:00+00:00,,YTO Cargo Airlines,9073,YG9073,HYT9073
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Air France,4022,AF4022,AFR4022
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Aircalin,740,SB740,ACI740
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Firefly,7170,FY7170,FFM7170
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Myanmar Airways International,9588,8M9588,MMA9588
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Singapore Airlines,282,SQ282,SIA282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Vistara,8282,UK8282,VTI8282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Air New Zealand,3282,NZ3282,ANZ3282
+2024-01-23 00:00:00,scheduled,Nanchang,2024-01-23 00:30:00+00:00,,Nanning,2024-01-23 02:50:00+00:00,,China Postal Airlines,9024,CF9024,CYZ9024
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:05:00+00:00,,Zurich,2024-01-23 06:10:00+00:00,,SWISS,177,LX177,SWR177
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:15:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:10:00+00:00,,Korean Air,9319,KE9319,KAL9319
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Firefly,7146,FY7146,FFM7146
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Qantas,7341,QF7341,QFA7341
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Suvarnabhumi International,2024-01-23 05:40:00+00:00,,Thai Airways International,462,TG462,THA462
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Malaysia Airlines,128,MH128,MAS128
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:35:00+00:00,,Singapore Changi,2024-01-23 05:15:00+00:00,,Singapore Airlines,218,SQ218,SIA218
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Cathay Pacific,178,CX178,CPA178
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 06:30:00+00:00,,AirAsia X,213,D7213,XAX213
+2024-01-23 00:00:00,scheduled,Lishe International Airport,2024-01-23 00:05:00+00:00,,Suvarnabhumi International,2024-01-23 03:35:00+00:00,,YTO Cargo Airlines,9017,YG9017,HYT9017
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:25:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Qantas,7445,QF7445,QFA7445
+2024-01-23 00:00:00,scheduled,Hangzhou,2024-01-23 00:10:00+00:00,,Kansai International,2024-01-23 04:50:00+00:00,,YTO Cargo Airlines,9133,YG9133,HYT9133
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 03:15:00+00:00,,Adelaide International Airport,2024-01-23 05:00:00+00:00,,Qantas,7448,QF7448,QFA7448
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Perth International,2024-01-23 03:35:00+00:00,,Qantas,7349,QF7349,QFA7349
+2024-01-23 00:00:00,scheduled,Beijing Daxing International Airport,2024-01-23 00:15:00+00:00,,Kota-Kinabalu International Airport,2024-01-23 05:45:00+00:00,,AirAsia,1561,AK1561,AXM1561
+2024-01-23 00:00:00,scheduled,Shenzhen,2024-01-23 00:15:00+00:00,,Madras International (Meenambakkam),2024-01-23 02:15:00+00:00,,SF Airlines,7069,O37069,CSS7069
+2024-01-23 00:00:00,scheduled,Horn Island,2024-01-23 01:00:00+00:00,,Badu Island,2024-01-23 01:20:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Qantas,5671,QF5671,QFA5671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,LATAM Airlines,5713,LA5713,LAN5713
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Jetstar,671,JQ671,JST671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Qantas,5580,QF5580,QFA5580
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,KLM,3545,KL3545,KLM3545
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Jetstar,83,JQ83,JST83
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Qantas,5673,QF5673,QFA5673
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Jetstar,673,JQ673,JST673
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:45:00+00:00,,Qantas,7404,QF7404,QFA7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:38:00+00:00,,National Jet Express,7404,NC7404,JTE7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:40:00+00:00,,Hong Kong International,2024-01-23 07:30:00+00:00,,Cathay Pacific,156,CX156,CPA156
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:05:00+00:00,,Qantas,7305,QF7305,QFA7305
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:20:00+00:00,,Singapore Changi,2024-01-23 04:16:00+00:00,,Singapore Airlines,8515,SQ8515,SIA8515
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:30:00+00:00,,Tan Son Nhat International,2024-01-23 05:55:00+00:00,,VietJet Air,82,VJ82,VJC82
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:10:00+00:00,,Perth International,2024-01-23 04:25:00+00:00,,Qantas,7359,QF7359,QFA7359
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Brisbane International,2024-01-23 02:42:00+00:00,,Texel Air,203,,XLR203
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 03:05:00+00:00,,Pionair Australia,7294,,SFZ7294
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:20:00+00:00,,Wuxi,2024-01-23 02:10:00+00:00,,SF Airlines,6939,O36939,CSS6939
+2024-01-23 00:00:00,scheduled,Townsville International,2024-01-23 01:00:00+00:00,,Gold Coast (coolangatta),2024-01-23 02:43:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 00:05:00+00:00,,Dubai,2024-01-23 06:55:00+00:00,,Emirates,313,EK313,UAE313
+Flight Date,Flight Status,Departure Airport,Departure Scheduled,Delay-dep,Arrival Airport,Arrival Scheduled,Delay-arr,Airline Name,Flight Number,Flight IATA,Flight ICAO
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:01:00+00:00,,Kansai International,2024-01-23 07:00:00+00:00,,Vietnam Airlines,320,VN320,HVN320
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Miat - Mongolian Airlines,5612,OM5612,MGL5612
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,British Airways,4140,BA4140,BAW4140
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Schiphol,2024-01-23 08:00:00+00:00,,China Southern Airlines,449,CZ449,CSN449
+2024-01-23 00:00:00,scheduled,Dalian,2024-01-23 00:05:00+00:00,,Kansai International,2024-01-23 03:20:00+00:00,,China Postal Airlines,241,CF241,CYZ241
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:15:00+00:00,,Shanghai Pudong International,2024-01-23 01:35:00+00:00,,China Cargo,248,CK248,CKK248
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:30:00+00:00,,Dubai,2024-01-23 04:10:00+00:00,,Emirates,353,EK353,UAE353
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:50:00+00:00,,SF Airlines,7103,O37103,CSS7103
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Hangzhou,2024-01-23 02:55:00+00:00,,SF Airlines,7107,O37107,CSS7107
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Lufthansa,7015,LH7015,DLH7015
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Cathay Pacific,289,CX289,CPA289
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:55:00+00:00,,San Francisco International,2024-01-22 21:00:00+00:00,,Malaysia Airlines,9198,MH9198,MAS9198
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:40:00+00:00,,Newark Liberty International,2024-01-23 05:30:00+00:00,,Singapore Airlines,22,SQ22,SIA22
+2024-01-23 00:00:00,scheduled,Tianjin Binhai International,2024-01-23 00:10:00+00:00,,Shanghai Pudong International,2024-01-23 02:20:00+00:00,,Suparna Airlines,7404,Y87404,YZR7404
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Heydar Aliyev International (Bina International),2024-01-23 05:00:00+00:00,,AZAL Azerbaijan Airlines,68,J268,AHY68
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:05:00+00:00,,Gimhae,2024-01-23 07:00:00+00:00,,VietJet Air,868,VJ868,VJC868
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:55:00+00:00,,Schiphol,2024-01-23 07:05:00+00:00,,Korean Air,5925,KE5925,KAL5925
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:30:00+00:00,,Shenzhen,2024-01-23 04:20:00+00:00,,SF Airlines,7105,O37105,CSS7105
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,LATAM Airlines,4813,LA4813,LAN4813
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,China Eastern Airlines,4015,MU4015,CES4015
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 02:50:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:50:00+00:00,,Airwork,82,,AWK82
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:40:00+00:00,,Seoul (Incheon),2024-01-23 06:40:00+00:00,,Jeju Air,3105,7C3105,JJA3105
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:55:00+00:00,,Gimhae,2024-01-23 06:30:00+00:00,,Jin Air,930,LJ930,JNA930
+2024-01-23 00:00:00,scheduled,Christchurch International,2024-01-23 06:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,Qantas,138,QF138,QFA138
+2024-01-23 00:00:00,scheduled,Ngurah Rai International,2024-01-23 00:10:00+00:00,,Doha International,2024-01-23 05:00:00+00:00,,Finnair,6672,AY6672,FIN6672
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 01:30:00+00:00,,Seoul (Incheon),2024-01-23 04:10:00+00:00,,Asiana Airlines,177,OZ177,AAR177
+2024-01-23 00:00:00,scheduled,Tianhe International,2024-01-23 00:15:00+00:00,,Hangzhou,2024-01-23 01:35:00+00:00,,SF Airlines,7463,O37463,CSS7463
+2024-01-23 00:00:00,cancelled,Hasanudin,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 03:55:00+00:00,,Malaysia Airlines,846,MH846,MAS846
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Bole International,2024-01-23 06:00:00+00:00,,Ethiopian Airlines,607,ET607,ETH607
+2024-01-23 00:00:00,scheduled,Woodbourne Air Station,2024-01-23 06:00:00+00:00,,Auckland International,2024-01-23 07:30:00+00:00,,Qantas,8508,QF8508,QFA8508
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,SWISS,9003,LX9003,SWR9003
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Lufthansa,9753,LH9753,DLH9753
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 04:10:00+00:00,,Christchurch International,2024-01-23 05:25:00+00:00,,Qantas,7523,QF7523,QFA7523
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:10:00+00:00,,Adelaide International Airport,2024-01-23 02:51:00+00:00,,Pionair Australia,7223,,SFZ7223
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 01:15:00+00:00,,Xianyang,2024-01-23 04:25:00+00:00,,Shandong Airlines,2434,SC2434,CDG2434
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:30:00+00:00,,Launceston,2024-01-23 03:30:00+00:00,,Qantas,7356,QF7356,QFA7356
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:10:00+00:00,,Franz Josef Strauss,2024-01-23 06:40:00+00:00,,Lufthansa,727,LH727,DLH727
+2024-01-23 00:00:00,scheduled,Wellington International,2024-01-23 06:00:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 08:05:00+00:00,,Thai Airways International,4844,TG4844,THA4844
+2024-01-23 00:00:00,scheduled,Jeju Airport,2024-01-23 00:55:00+00:00,,Cheongju,2024-01-23 02:00:00+00:00,,Aero K,602,RF602,EOK602
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:05:00+00:00,,Beijing Capital International,2024-01-23 02:40:00+00:00,,SF Airlines,7114,O37114,CSS7114
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:45:00+00:00,,Suvarnabhumi International,2024-01-23 05:00:00+00:00,,JAL,727,JL727,JAL727
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 04:30:00+00:00,,Qantas,7454,QF7454,QFA7454
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,LATAM Airlines,8928,LA8928,LAN8928
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Qatar Airways,4970,QR4970,QTR4970
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Turkish Airlines,4802,TK4802,THY4802
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,SriLankan Airlines,2120,UL2120,ALK2120
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Oman Air,5585,WY5585,OMA5585
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Malaysia Airlines,132,MH132,MAS132
+2024-01-23 00:00:00,scheduled,Kunming,2024-01-23 00:15:00+00:00,,Nanjing Lukou International Airport,2024-01-23 03:00:00+00:00,,China Postal Airlines,9017,CF9017,CYZ9017
+2024-01-23 00:00:00,scheduled,Lanzhou Zhongchuan Airport,2024-01-23 00:05:00+00:00,,Nanjing Lukou International Airport,2024-01-23 02:45:00+00:00,,China Postal Airlines,9001,CF9001,CYZ9001
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:20:00+00:00,,Qantas,7405,QF7405,QFA7405
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:05:00+00:00,,Brisbane International,2024-01-23 01:35:00+00:00,,Qantas,7420,QF7420,QFA7420
+2024-01-23 00:00:00,scheduled,Shenyang,2024-01-23 00:40:00+00:00,,Changchun,2024-01-23 02:10:00+00:00,,Air China LTD,1088,CA1088,CCA1088
+2024-01-23 00:00:00,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),2024-01-23 00:10:00+00:00,,Xiamen,2024-01-23 01:30:00+00:00,,China Airlines,5991,CI5991,CAL5991
+2024-01-23 00:00:00,scheduled,Yancheng,2024-01-23 00:05:00+00:00,,Seoul (Incheon),2024-01-23 03:30:00+00:00,,YTO Cargo Airlines,9073,YG9073,HYT9073
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Air France,4022,AF4022,AFR4022
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Aircalin,740,SB740,ACI740
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Firefly,7170,FY7170,FFM7170
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Myanmar Airways International,9588,8M9588,MMA9588
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Singapore Airlines,282,SQ282,SIA282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Vistara,8282,UK8282,VTI8282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Air New Zealand,3282,NZ3282,ANZ3282
+2024-01-23 00:00:00,scheduled,Nanchang,2024-01-23 00:30:00+00:00,,Nanning,2024-01-23 02:50:00+00:00,,China Postal Airlines,9024,CF9024,CYZ9024
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:05:00+00:00,,Zurich,2024-01-23 06:10:00+00:00,,SWISS,177,LX177,SWR177
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:15:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:10:00+00:00,,Korean Air,9319,KE9319,KAL9319
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Firefly,7146,FY7146,FFM7146
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Qantas,7341,QF7341,QFA7341
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Suvarnabhumi International,2024-01-23 05:40:00+00:00,,Thai Airways International,462,TG462,THA462
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Malaysia Airlines,128,MH128,MAS128
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:35:00+00:00,,Singapore Changi,2024-01-23 05:15:00+00:00,,Singapore Airlines,218,SQ218,SIA218
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Cathay Pacific,178,CX178,CPA178
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 06:30:00+00:00,,AirAsia X,213,D7213,XAX213
+2024-01-23 00:00:00,scheduled,Lishe International Airport,2024-01-23 00:05:00+00:00,,Suvarnabhumi International,2024-01-23 03:35:00+00:00,,YTO Cargo Airlines,9017,YG9017,HYT9017
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:25:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Qantas,7445,QF7445,QFA7445
+2024-01-23 00:00:00,scheduled,Hangzhou,2024-01-23 00:10:00+00:00,,Kansai International,2024-01-23 04:50:00+00:00,,YTO Cargo Airlines,9133,YG9133,HYT9133
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 03:15:00+00:00,,Adelaide International Airport,2024-01-23 05:00:00+00:00,,Qantas,7448,QF7448,QFA7448
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Perth International,2024-01-23 03:35:00+00:00,,Qantas,7349,QF7349,QFA7349
+2024-01-23 00:00:00,scheduled,Beijing Daxing International Airport,2024-01-23 00:15:00+00:00,,Kota-Kinabalu International Airport,2024-01-23 05:45:00+00:00,,AirAsia,1561,AK1561,AXM1561
+2024-01-23 00:00:00,scheduled,Shenzhen,2024-01-23 00:15:00+00:00,,Madras International (Meenambakkam),2024-01-23 02:15:00+00:00,,SF Airlines,7069,O37069,CSS7069
+2024-01-23 00:00:00,scheduled,Horn Island,2024-01-23 01:00:00+00:00,,Badu Island,2024-01-23 01:20:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Qantas,5671,QF5671,QFA5671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,LATAM Airlines,5713,LA5713,LAN5713
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Jetstar,671,JQ671,JST671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Qantas,5580,QF5580,QFA5580
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,KLM,3545,KL3545,KLM3545
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Jetstar,83,JQ83,JST83
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Qantas,5673,QF5673,QFA5673
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Jetstar,673,JQ673,JST673
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:45:00+00:00,,Qantas,7404,QF7404,QFA7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:38:00+00:00,,National Jet Express,7404,NC7404,JTE7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:40:00+00:00,,Hong Kong International,2024-01-23 07:30:00+00:00,,Cathay Pacific,156,CX156,CPA156
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:05:00+00:00,,Qantas,7305,QF7305,QFA7305
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:20:00+00:00,,Singapore Changi,2024-01-23 04:16:00+00:00,,Singapore Airlines,8515,SQ8515,SIA8515
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:30:00+00:00,,Tan Son Nhat International,2024-01-23 05:55:00+00:00,,VietJet Air,82,VJ82,VJC82
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:10:00+00:00,,Perth International,2024-01-23 04:25:00+00:00,,Qantas,7359,QF7359,QFA7359
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Brisbane International,2024-01-23 02:42:00+00:00,,Texel Air,203,,XLR203
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 03:05:00+00:00,,Pionair Australia,7294,,SFZ7294
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:20:00+00:00,,Wuxi,2024-01-23 02:10:00+00:00,,SF Airlines,6939,O36939,CSS6939
+2024-01-23 00:00:00,scheduled,Townsville International,2024-01-23 01:00:00+00:00,,Gold Coast (coolangatta),2024-01-23 02:43:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 00:05:00+00:00,,Dubai,2024-01-23 06:55:00+00:00,,Emirates,313,EK313,UAE313
+Flight Date,Flight Status,Departure Airport,Departure Scheduled,Delay-dep,Arrival Airport,Arrival Scheduled,Delay-arr,Airline Name,Flight Number,Flight IATA,Flight ICAO
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:01:00+00:00,,Kansai International,2024-01-23 07:00:00+00:00,,Vietnam Airlines,320,VN320,HVN320
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Miat - Mongolian Airlines,5612,OM5612,MGL5612
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,British Airways,4140,BA4140,BAW4140
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Schiphol,2024-01-23 08:00:00+00:00,,China Southern Airlines,449,CZ449,CSN449
+2024-01-23 00:00:00,scheduled,Dalian,2024-01-23 00:05:00+00:00,,Kansai International,2024-01-23 03:20:00+00:00,,China Postal Airlines,241,CF241,CYZ241
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:15:00+00:00,,Shanghai Pudong International,2024-01-23 01:35:00+00:00,,China Cargo,248,CK248,CKK248
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:30:00+00:00,,Dubai,2024-01-23 04:10:00+00:00,,Emirates,353,EK353,UAE353
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:50:00+00:00,,SF Airlines,7103,O37103,CSS7103
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Hangzhou,2024-01-23 02:55:00+00:00,,SF Airlines,7107,O37107,CSS7107
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Lufthansa,7015,LH7015,DLH7015
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Cathay Pacific,289,CX289,CPA289
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:55:00+00:00,,San Francisco International,2024-01-22 21:00:00+00:00,,Malaysia Airlines,9198,MH9198,MAS9198
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:40:00+00:00,,Newark Liberty International,2024-01-23 05:30:00+00:00,,Singapore Airlines,22,SQ22,SIA22
+2024-01-23 00:00:00,scheduled,Tianjin Binhai International,2024-01-23 00:10:00+00:00,,Shanghai Pudong International,2024-01-23 02:20:00+00:00,,Suparna Airlines,7404,Y87404,YZR7404
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Heydar Aliyev International (Bina International),2024-01-23 05:00:00+00:00,,AZAL Azerbaijan Airlines,68,J268,AHY68
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:05:00+00:00,,Gimhae,2024-01-23 07:00:00+00:00,,VietJet Air,868,VJ868,VJC868
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:55:00+00:00,,Schiphol,2024-01-23 07:05:00+00:00,,Korean Air,5925,KE5925,KAL5925
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:30:00+00:00,,Shenzhen,2024-01-23 04:20:00+00:00,,SF Airlines,7105,O37105,CSS7105
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,LATAM Airlines,4813,LA4813,LAN4813
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,China Eastern Airlines,4015,MU4015,CES4015
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 02:50:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:50:00+00:00,,Airwork,82,,AWK82
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:40:00+00:00,,Seoul (Incheon),2024-01-23 06:40:00+00:00,,Jeju Air,3105,7C3105,JJA3105
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:55:00+00:00,,Gimhae,2024-01-23 06:30:00+00:00,,Jin Air,930,LJ930,JNA930
+2024-01-23 00:00:00,scheduled,Christchurch International,2024-01-23 06:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,Qantas,138,QF138,QFA138
+2024-01-23 00:00:00,scheduled,Ngurah Rai International,2024-01-23 00:10:00+00:00,,Doha International,2024-01-23 05:00:00+00:00,,Finnair,6672,AY6672,FIN6672
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 01:30:00+00:00,,Seoul (Incheon),2024-01-23 04:10:00+00:00,,Asiana Airlines,177,OZ177,AAR177
+2024-01-23 00:00:00,scheduled,Tianhe International,2024-01-23 00:15:00+00:00,,Hangzhou,2024-01-23 01:35:00+00:00,,SF Airlines,7463,O37463,CSS7463
+2024-01-23 00:00:00,cancelled,Hasanudin,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 03:55:00+00:00,,Malaysia Airlines,846,MH846,MAS846
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Bole International,2024-01-23 06:00:00+00:00,,Ethiopian Airlines,607,ET607,ETH607
+2024-01-23 00:00:00,scheduled,Woodbourne Air Station,2024-01-23 06:00:00+00:00,,Auckland International,2024-01-23 07:30:00+00:00,,Qantas,8508,QF8508,QFA8508
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,SWISS,9003,LX9003,SWR9003
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Lufthansa,9753,LH9753,DLH9753
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 04:10:00+00:00,,Christchurch International,2024-01-23 05:25:00+00:00,,Qantas,7523,QF7523,QFA7523
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:10:00+00:00,,Adelaide International Airport,2024-01-23 02:51:00+00:00,,Pionair Australia,7223,,SFZ7223
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 01:15:00+00:00,,Xianyang,2024-01-23 04:25:00+00:00,,Shandong Airlines,2434,SC2434,CDG2434
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:30:00+00:00,,Launceston,2024-01-23 03:30:00+00:00,,Qantas,7356,QF7356,QFA7356
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:10:00+00:00,,Franz Josef Strauss,2024-01-23 06:40:00+00:00,,Lufthansa,727,LH727,DLH727
+2024-01-23 00:00:00,scheduled,Wellington International,2024-01-23 06:00:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 08:05:00+00:00,,Thai Airways International,4844,TG4844,THA4844
+2024-01-23 00:00:00,scheduled,Jeju Airport,2024-01-23 00:55:00+00:00,,Cheongju,2024-01-23 02:00:00+00:00,,Aero K,602,RF602,EOK602
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:05:00+00:00,,Beijing Capital International,2024-01-23 02:40:00+00:00,,SF Airlines,7114,O37114,CSS7114
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:45:00+00:00,,Suvarnabhumi International,2024-01-23 05:00:00+00:00,,JAL,727,JL727,JAL727
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 04:30:00+00:00,,Qantas,7454,QF7454,QFA7454
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,LATAM Airlines,8928,LA8928,LAN8928
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Qatar Airways,4970,QR4970,QTR4970
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Turkish Airlines,4802,TK4802,THY4802
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,SriLankan Airlines,2120,UL2120,ALK2120
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Oman Air,5585,WY5585,OMA5585
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Malaysia Airlines,132,MH132,MAS132
+2024-01-23 00:00:00,scheduled,Kunming,2024-01-23 00:15:00+00:00,,Nanjing Lukou International Airport,2024-01-23 03:00:00+00:00,,China Postal Airlines,9017,CF9017,CYZ9017
+2024-01-23 00:00:00,scheduled,Lanzhou Zhongchuan Airport,2024-01-23 00:05:00+00:00,,Nanjing Lukou International Airport,2024-01-23 02:45:00+00:00,,China Postal Airlines,9001,CF9001,CYZ9001
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:20:00+00:00,,Qantas,7405,QF7405,QFA7405
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:05:00+00:00,,Brisbane International,2024-01-23 01:35:00+00:00,,Qantas,7420,QF7420,QFA7420
+2024-01-23 00:00:00,scheduled,Shenyang,2024-01-23 00:40:00+00:00,,Changchun,2024-01-23 02:10:00+00:00,,Air China LTD,1088,CA1088,CCA1088
+2024-01-23 00:00:00,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),2024-01-23 00:10:00+00:00,,Xiamen,2024-01-23 01:30:00+00:00,,China Airlines,5991,CI5991,CAL5991
+2024-01-23 00:00:00,scheduled,Yancheng,2024-01-23 00:05:00+00:00,,Seoul (Incheon),2024-01-23 03:30:00+00:00,,YTO Cargo Airlines,9073,YG9073,HYT9073
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Air France,4022,AF4022,AFR4022
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Aircalin,740,SB740,ACI740
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Firefly,7170,FY7170,FFM7170
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Myanmar Airways International,9588,8M9588,MMA9588
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Singapore Airlines,282,SQ282,SIA282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Vistara,8282,UK8282,VTI8282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Air New Zealand,3282,NZ3282,ANZ3282
+2024-01-23 00:00:00,scheduled,Nanchang,2024-01-23 00:30:00+00:00,,Nanning,2024-01-23 02:50:00+00:00,,China Postal Airlines,9024,CF9024,CYZ9024
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:05:00+00:00,,Zurich,2024-01-23 06:10:00+00:00,,SWISS,177,LX177,SWR177
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:15:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:10:00+00:00,,Korean Air,9319,KE9319,KAL9319
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Firefly,7146,FY7146,FFM7146
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Qantas,7341,QF7341,QFA7341
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Suvarnabhumi International,2024-01-23 05:40:00+00:00,,Thai Airways International,462,TG462,THA462
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Malaysia Airlines,128,MH128,MAS128
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:35:00+00:00,,Singapore Changi,2024-01-23 05:15:00+00:00,,Singapore Airlines,218,SQ218,SIA218
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Cathay Pacific,178,CX178,CPA178
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 06:30:00+00:00,,AirAsia X,213,D7213,XAX213
+2024-01-23 00:00:00,scheduled,Lishe International Airport,2024-01-23 00:05:00+00:00,,Suvarnabhumi International,2024-01-23 03:35:00+00:00,,YTO Cargo Airlines,9017,YG9017,HYT9017
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:25:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Qantas,7445,QF7445,QFA7445
+2024-01-23 00:00:00,scheduled,Hangzhou,2024-01-23 00:10:00+00:00,,Kansai International,2024-01-23 04:50:00+00:00,,YTO Cargo Airlines,9133,YG9133,HYT9133
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 03:15:00+00:00,,Adelaide International Airport,2024-01-23 05:00:00+00:00,,Qantas,7448,QF7448,QFA7448
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Perth International,2024-01-23 03:35:00+00:00,,Qantas,7349,QF7349,QFA7349
+2024-01-23 00:00:00,scheduled,Beijing Daxing International Airport,2024-01-23 00:15:00+00:00,,Kota-Kinabalu International Airport,2024-01-23 05:45:00+00:00,,AirAsia,1561,AK1561,AXM1561
+2024-01-23 00:00:00,scheduled,Shenzhen,2024-01-23 00:15:00+00:00,,Madras International (Meenambakkam),2024-01-23 02:15:00+00:00,,SF Airlines,7069,O37069,CSS7069
+2024-01-23 00:00:00,scheduled,Horn Island,2024-01-23 01:00:00+00:00,,Badu Island,2024-01-23 01:20:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Qantas,5671,QF5671,QFA5671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,LATAM Airlines,5713,LA5713,LAN5713
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Jetstar,671,JQ671,JST671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Qantas,5580,QF5580,QFA5580
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,KLM,3545,KL3545,KLM3545
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Jetstar,83,JQ83,JST83
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Qantas,5673,QF5673,QFA5673
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Jetstar,673,JQ673,JST673
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:45:00+00:00,,Qantas,7404,QF7404,QFA7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:38:00+00:00,,National Jet Express,7404,NC7404,JTE7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:40:00+00:00,,Hong Kong International,2024-01-23 07:30:00+00:00,,Cathay Pacific,156,CX156,CPA156
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:05:00+00:00,,Qantas,7305,QF7305,QFA7305
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:20:00+00:00,,Singapore Changi,2024-01-23 04:16:00+00:00,,Singapore Airlines,8515,SQ8515,SIA8515
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:30:00+00:00,,Tan Son Nhat International,2024-01-23 05:55:00+00:00,,VietJet Air,82,VJ82,VJC82
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:10:00+00:00,,Perth International,2024-01-23 04:25:00+00:00,,Qantas,7359,QF7359,QFA7359
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Brisbane International,2024-01-23 02:42:00+00:00,,Texel Air,203,,XLR203
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 03:05:00+00:00,,Pionair Australia,7294,,SFZ7294
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:20:00+00:00,,Wuxi,2024-01-23 02:10:00+00:00,,SF Airlines,6939,O36939,CSS6939
+2024-01-23 00:00:00,scheduled,Townsville International,2024-01-23 01:00:00+00:00,,Gold Coast (coolangatta),2024-01-23 02:43:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 00:05:00+00:00,,Dubai,2024-01-23 06:55:00+00:00,,Emirates,313,EK313,UAE313
+Flight Date,Flight Status,Departure Airport,Departure Scheduled,Delay-dep,Arrival Airport,Arrival Scheduled,Delay-arr,Airline Name,Flight Number,Flight IATA,Flight ICAO
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:01:00+00:00,,Kansai International,2024-01-23 07:00:00+00:00,,Vietnam Airlines,320,VN320,HVN320
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Miat - Mongolian Airlines,5612,OM5612,MGL5612
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,British Airways,4140,BA4140,BAW4140
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Schiphol,2024-01-23 08:00:00+00:00,,China Southern Airlines,449,CZ449,CSN449
+2024-01-23 00:00:00,scheduled,Dalian,2024-01-23 00:05:00+00:00,,Kansai International,2024-01-23 03:20:00+00:00,,China Postal Airlines,241,CF241,CYZ241
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:15:00+00:00,,Shanghai Pudong International,2024-01-23 01:35:00+00:00,,China Cargo,248,CK248,CKK248
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:30:00+00:00,,Dubai,2024-01-23 04:10:00+00:00,,Emirates,353,EK353,UAE353
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:50:00+00:00,,SF Airlines,7103,O37103,CSS7103
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Hangzhou,2024-01-23 02:55:00+00:00,,SF Airlines,7107,O37107,CSS7107
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Lufthansa,7015,LH7015,DLH7015
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Cathay Pacific,289,CX289,CPA289
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:55:00+00:00,,San Francisco International,2024-01-22 21:00:00+00:00,,Malaysia Airlines,9198,MH9198,MAS9198
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:40:00+00:00,,Newark Liberty International,2024-01-23 05:30:00+00:00,,Singapore Airlines,22,SQ22,SIA22
+2024-01-23 00:00:00,scheduled,Tianjin Binhai International,2024-01-23 00:10:00+00:00,,Shanghai Pudong International,2024-01-23 02:20:00+00:00,,Suparna Airlines,7404,Y87404,YZR7404
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Heydar Aliyev International (Bina International),2024-01-23 05:00:00+00:00,,AZAL Azerbaijan Airlines,68,J268,AHY68
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:05:00+00:00,,Gimhae,2024-01-23 07:00:00+00:00,,VietJet Air,868,VJ868,VJC868
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:55:00+00:00,,Schiphol,2024-01-23 07:05:00+00:00,,Korean Air,5925,KE5925,KAL5925
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:30:00+00:00,,Shenzhen,2024-01-23 04:20:00+00:00,,SF Airlines,7105,O37105,CSS7105
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,LATAM Airlines,4813,LA4813,LAN4813
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,China Eastern Airlines,4015,MU4015,CES4015
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 02:50:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:50:00+00:00,,Airwork,82,,AWK82
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:40:00+00:00,,Seoul (Incheon),2024-01-23 06:40:00+00:00,,Jeju Air,3105,7C3105,JJA3105
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:55:00+00:00,,Gimhae,2024-01-23 06:30:00+00:00,,Jin Air,930,LJ930,JNA930
+2024-01-23 00:00:00,scheduled,Christchurch International,2024-01-23 06:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,Qantas,138,QF138,QFA138
+2024-01-23 00:00:00,scheduled,Ngurah Rai International,2024-01-23 00:10:00+00:00,,Doha International,2024-01-23 05:00:00+00:00,,Finnair,6672,AY6672,FIN6672
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 01:30:00+00:00,,Seoul (Incheon),2024-01-23 04:10:00+00:00,,Asiana Airlines,177,OZ177,AAR177
+2024-01-23 00:00:00,scheduled,Tianhe International,2024-01-23 00:15:00+00:00,,Hangzhou,2024-01-23 01:35:00+00:00,,SF Airlines,7463,O37463,CSS7463
+2024-01-23 00:00:00,cancelled,Hasanudin,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 03:55:00+00:00,,Malaysia Airlines,846,MH846,MAS846
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Bole International,2024-01-23 06:00:00+00:00,,Ethiopian Airlines,607,ET607,ETH607
+2024-01-23 00:00:00,scheduled,Woodbourne Air Station,2024-01-23 06:00:00+00:00,,Auckland International,2024-01-23 07:30:00+00:00,,Qantas,8508,QF8508,QFA8508
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,SWISS,9003,LX9003,SWR9003
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Lufthansa,9753,LH9753,DLH9753
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 04:10:00+00:00,,Christchurch International,2024-01-23 05:25:00+00:00,,Qantas,7523,QF7523,QFA7523
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:10:00+00:00,,Adelaide International Airport,2024-01-23 02:51:00+00:00,,Pionair Australia,7223,,SFZ7223
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 01:15:00+00:00,,Xianyang,2024-01-23 04:25:00+00:00,,Shandong Airlines,2434,SC2434,CDG2434
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:30:00+00:00,,Launceston,2024-01-23 03:30:00+00:00,,Qantas,7356,QF7356,QFA7356
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:10:00+00:00,,Franz Josef Strauss,2024-01-23 06:40:00+00:00,,Lufthansa,727,LH727,DLH727
+2024-01-23 00:00:00,scheduled,Wellington International,2024-01-23 06:00:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 08:05:00+00:00,,Thai Airways International,4844,TG4844,THA4844
+2024-01-23 00:00:00,scheduled,Jeju Airport,2024-01-23 00:55:00+00:00,,Cheongju,2024-01-23 02:00:00+00:00,,Aero K,602,RF602,EOK602
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:05:00+00:00,,Beijing Capital International,2024-01-23 02:40:00+00:00,,SF Airlines,7114,O37114,CSS7114
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:45:00+00:00,,Suvarnabhumi International,2024-01-23 05:00:00+00:00,,JAL,727,JL727,JAL727
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 04:30:00+00:00,,Qantas,7454,QF7454,QFA7454
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,LATAM Airlines,8928,LA8928,LAN8928
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Qatar Airways,4970,QR4970,QTR4970
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Turkish Airlines,4802,TK4802,THY4802
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,SriLankan Airlines,2120,UL2120,ALK2120
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Oman Air,5585,WY5585,OMA5585
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Malaysia Airlines,132,MH132,MAS132
+2024-01-23 00:00:00,scheduled,Kunming,2024-01-23 00:15:00+00:00,,Nanjing Lukou International Airport,2024-01-23 03:00:00+00:00,,China Postal Airlines,9017,CF9017,CYZ9017
+2024-01-23 00:00:00,scheduled,Lanzhou Zhongchuan Airport,2024-01-23 00:05:00+00:00,,Nanjing Lukou International Airport,2024-01-23 02:45:00+00:00,,China Postal Airlines,9001,CF9001,CYZ9001
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:20:00+00:00,,Qantas,7405,QF7405,QFA7405
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:05:00+00:00,,Brisbane International,2024-01-23 01:35:00+00:00,,Qantas,7420,QF7420,QFA7420
+2024-01-23 00:00:00,scheduled,Shenyang,2024-01-23 00:40:00+00:00,,Changchun,2024-01-23 02:10:00+00:00,,Air China LTD,1088,CA1088,CCA1088
+2024-01-23 00:00:00,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),2024-01-23 00:10:00+00:00,,Xiamen,2024-01-23 01:30:00+00:00,,China Airlines,5991,CI5991,CAL5991
+2024-01-23 00:00:00,scheduled,Yancheng,2024-01-23 00:05:00+00:00,,Seoul (Incheon),2024-01-23 03:30:00+00:00,,YTO Cargo Airlines,9073,YG9073,HYT9073
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Air France,4022,AF4022,AFR4022
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Aircalin,740,SB740,ACI740
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Firefly,7170,FY7170,FFM7170
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Myanmar Airways International,9588,8M9588,MMA9588
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Singapore Airlines,282,SQ282,SIA282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Vistara,8282,UK8282,VTI8282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Air New Zealand,3282,NZ3282,ANZ3282
+2024-01-23 00:00:00,scheduled,Nanchang,2024-01-23 00:30:00+00:00,,Nanning,2024-01-23 02:50:00+00:00,,China Postal Airlines,9024,CF9024,CYZ9024
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:05:00+00:00,,Zurich,2024-01-23 06:10:00+00:00,,SWISS,177,LX177,SWR177
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:15:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:10:00+00:00,,Korean Air,9319,KE9319,KAL9319
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Firefly,7146,FY7146,FFM7146
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Qantas,7341,QF7341,QFA7341
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Suvarnabhumi International,2024-01-23 05:40:00+00:00,,Thai Airways International,462,TG462,THA462
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Malaysia Airlines,128,MH128,MAS128
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:35:00+00:00,,Singapore Changi,2024-01-23 05:15:00+00:00,,Singapore Airlines,218,SQ218,SIA218
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Cathay Pacific,178,CX178,CPA178
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 06:30:00+00:00,,AirAsia X,213,D7213,XAX213
+2024-01-23 00:00:00,scheduled,Lishe International Airport,2024-01-23 00:05:00+00:00,,Suvarnabhumi International,2024-01-23 03:35:00+00:00,,YTO Cargo Airlines,9017,YG9017,HYT9017
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:25:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Qantas,7445,QF7445,QFA7445
+2024-01-23 00:00:00,scheduled,Hangzhou,2024-01-23 00:10:00+00:00,,Kansai International,2024-01-23 04:50:00+00:00,,YTO Cargo Airlines,9133,YG9133,HYT9133
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 03:15:00+00:00,,Adelaide International Airport,2024-01-23 05:00:00+00:00,,Qantas,7448,QF7448,QFA7448
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Perth International,2024-01-23 03:35:00+00:00,,Qantas,7349,QF7349,QFA7349
+2024-01-23 00:00:00,scheduled,Beijing Daxing International Airport,2024-01-23 00:15:00+00:00,,Kota-Kinabalu International Airport,2024-01-23 05:45:00+00:00,,AirAsia,1561,AK1561,AXM1561
+2024-01-23 00:00:00,scheduled,Shenzhen,2024-01-23 00:15:00+00:00,,Madras International (Meenambakkam),2024-01-23 02:15:00+00:00,,SF Airlines,7069,O37069,CSS7069
+2024-01-23 00:00:00,scheduled,Horn Island,2024-01-23 01:00:00+00:00,,Badu Island,2024-01-23 01:20:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Qantas,5671,QF5671,QFA5671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,LATAM Airlines,5713,LA5713,LAN5713
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Jetstar,671,JQ671,JST671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Qantas,5580,QF5580,QFA5580
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,KLM,3545,KL3545,KLM3545
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Jetstar,83,JQ83,JST83
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Qantas,5673,QF5673,QFA5673
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Jetstar,673,JQ673,JST673
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:45:00+00:00,,Qantas,7404,QF7404,QFA7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:38:00+00:00,,National Jet Express,7404,NC7404,JTE7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:40:00+00:00,,Hong Kong International,2024-01-23 07:30:00+00:00,,Cathay Pacific,156,CX156,CPA156
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:05:00+00:00,,Qantas,7305,QF7305,QFA7305
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:20:00+00:00,,Singapore Changi,2024-01-23 04:16:00+00:00,,Singapore Airlines,8515,SQ8515,SIA8515
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:30:00+00:00,,Tan Son Nhat International,2024-01-23 05:55:00+00:00,,VietJet Air,82,VJ82,VJC82
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:10:00+00:00,,Perth International,2024-01-23 04:25:00+00:00,,Qantas,7359,QF7359,QFA7359
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Brisbane International,2024-01-23 02:42:00+00:00,,Texel Air,203,,XLR203
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 03:05:00+00:00,,Pionair Australia,7294,,SFZ7294
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:20:00+00:00,,Wuxi,2024-01-23 02:10:00+00:00,,SF Airlines,6939,O36939,CSS6939
+2024-01-23 00:00:00,scheduled,Townsville International,2024-01-23 01:00:00+00:00,,Gold Coast (coolangatta),2024-01-23 02:43:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 00:05:00+00:00,,Dubai,2024-01-23 06:55:00+00:00,,Emirates,313,EK313,UAE313
+Flight Date,Flight Status,Departure Airport,Departure Scheduled,Delay-dep,Arrival Airport,Arrival Scheduled,Delay-arr,Airline Name,Flight Number,Flight IATA,Flight ICAO
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:01:00+00:00,,Kansai International,2024-01-23 07:00:00+00:00,,Vietnam Airlines,320,VN320,HVN320
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Miat - Mongolian Airlines,5612,OM5612,MGL5612
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,British Airways,4140,BA4140,BAW4140
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Schiphol,2024-01-23 08:00:00+00:00,,China Southern Airlines,449,CZ449,CSN449
+2024-01-23 00:00:00,scheduled,Dalian,2024-01-23 00:05:00+00:00,,Kansai International,2024-01-23 03:20:00+00:00,,China Postal Airlines,241,CF241,CYZ241
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:15:00+00:00,,Shanghai Pudong International,2024-01-23 01:35:00+00:00,,China Cargo,248,CK248,CKK248
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:30:00+00:00,,Dubai,2024-01-23 04:10:00+00:00,,Emirates,353,EK353,UAE353
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:50:00+00:00,,SF Airlines,7103,O37103,CSS7103
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Hangzhou,2024-01-23 02:55:00+00:00,,SF Airlines,7107,O37107,CSS7107
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Lufthansa,7015,LH7015,DLH7015
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:15:00+00:00,,Frankfurt International Airport,2024-01-23 07:05:00+00:00,,Cathay Pacific,289,CX289,CPA289
+2024-01-23 00:00:00,scheduled,Hong Kong International,2024-01-23 00:55:00+00:00,,San Francisco International,2024-01-22 21:00:00+00:00,,Malaysia Airlines,9198,MH9198,MAS9198
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:40:00+00:00,,Newark Liberty International,2024-01-23 05:30:00+00:00,,Singapore Airlines,22,SQ22,SIA22
+2024-01-23 00:00:00,scheduled,Tianjin Binhai International,2024-01-23 00:10:00+00:00,,Shanghai Pudong International,2024-01-23 02:20:00+00:00,,Suparna Airlines,7404,Y87404,YZR7404
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 01:00:00+00:00,,Heydar Aliyev International (Bina International),2024-01-23 05:00:00+00:00,,AZAL Azerbaijan Airlines,68,J268,AHY68
+2024-01-23 00:00:00,scheduled,Tan Son Nhat International,2024-01-23 00:05:00+00:00,,Gimhae,2024-01-23 07:00:00+00:00,,VietJet Air,868,VJ868,VJC868
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:55:00+00:00,,Schiphol,2024-01-23 07:05:00+00:00,,Korean Air,5925,KE5925,KAL5925
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:30:00+00:00,,Shenzhen,2024-01-23 04:20:00+00:00,,SF Airlines,7105,O37105,CSS7105
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,LATAM Airlines,4813,LA4813,LAN4813
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 06:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,China Eastern Airlines,4015,MU4015,CES4015
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 02:50:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:50:00+00:00,,Airwork,82,,AWK82
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:40:00+00:00,,Seoul (Incheon),2024-01-23 06:40:00+00:00,,Jeju Air,3105,7C3105,JJA3105
+2024-01-23 00:00:00,scheduled,Guam International,2024-01-23 02:55:00+00:00,,Gimhae,2024-01-23 06:30:00+00:00,,Jin Air,930,LJ930,JNA930
+2024-01-23 00:00:00,scheduled,Christchurch International,2024-01-23 06:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 07:35:00+00:00,,Qantas,138,QF138,QFA138
+2024-01-23 00:00:00,scheduled,Ngurah Rai International,2024-01-23 00:10:00+00:00,,Doha International,2024-01-23 05:00:00+00:00,,Finnair,6672,AY6672,FIN6672
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 01:30:00+00:00,,Seoul (Incheon),2024-01-23 04:10:00+00:00,,Asiana Airlines,177,OZ177,AAR177
+2024-01-23 00:00:00,scheduled,Tianhe International,2024-01-23 00:15:00+00:00,,Hangzhou,2024-01-23 01:35:00+00:00,,SF Airlines,7463,O37463,CSS7463
+2024-01-23 00:00:00,cancelled,Hasanudin,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 03:55:00+00:00,,Malaysia Airlines,846,MH846,MAS846
+2024-01-23 00:00:00,scheduled,Guangzhou Baiyun International,2024-01-23 00:10:00+00:00,,Bole International,2024-01-23 06:00:00+00:00,,Ethiopian Airlines,607,ET607,ETH607
+2024-01-23 00:00:00,scheduled,Woodbourne Air Station,2024-01-23 06:00:00+00:00,,Auckland International,2024-01-23 07:30:00+00:00,,Qantas,8508,QF8508,QFA8508
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,SWISS,9003,LX9003,SWR9003
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Lufthansa,9753,LH9753,DLH9753
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 04:10:00+00:00,,Christchurch International,2024-01-23 05:25:00+00:00,,Qantas,7523,QF7523,QFA7523
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:10:00+00:00,,Adelaide International Airport,2024-01-23 02:51:00+00:00,,Pionair Australia,7223,,SFZ7223
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 01:15:00+00:00,,Xianyang,2024-01-23 04:25:00+00:00,,Shandong Airlines,2434,SC2434,CDG2434
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:30:00+00:00,,Launceston,2024-01-23 03:30:00+00:00,,Qantas,7356,QF7356,QFA7356
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:10:00+00:00,,Franz Josef Strauss,2024-01-23 06:40:00+00:00,,Lufthansa,727,LH727,DLH727
+2024-01-23 00:00:00,scheduled,Wellington International,2024-01-23 06:00:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 08:05:00+00:00,,Thai Airways International,4844,TG4844,THA4844
+2024-01-23 00:00:00,scheduled,Jeju Airport,2024-01-23 00:55:00+00:00,,Cheongju,2024-01-23 02:00:00+00:00,,Aero K,602,RF602,EOK602
+2024-01-23 00:00:00,scheduled,Shanghai Pudong International,2024-01-23 00:05:00+00:00,,Beijing Capital International,2024-01-23 02:40:00+00:00,,SF Airlines,7114,O37114,CSS7114
+2024-01-23 00:00:00,scheduled,Kansai International,2024-01-23 00:45:00+00:00,,Suvarnabhumi International,2024-01-23 05:00:00+00:00,,JAL,727,JL727,JAL727
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:05:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 04:30:00+00:00,,Qantas,7454,QF7454,QFA7454
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,LATAM Airlines,8928,LA8928,LAN8928
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Qatar Airways,4970,QR4970,QTR4970
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Turkish Airlines,4802,TK4802,THY4802
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,SriLankan Airlines,2120,UL2120,ALK2120
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Oman Air,5585,WY5585,OMA5585
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Malaysia Airlines,132,MH132,MAS132
+2024-01-23 00:00:00,scheduled,Kunming,2024-01-23 00:15:00+00:00,,Nanjing Lukou International Airport,2024-01-23 03:00:00+00:00,,China Postal Airlines,9017,CF9017,CYZ9017
+2024-01-23 00:00:00,scheduled,Lanzhou Zhongchuan Airport,2024-01-23 00:05:00+00:00,,Nanjing Lukou International Airport,2024-01-23 02:45:00+00:00,,China Postal Airlines,9001,CF9001,CYZ9001
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:20:00+00:00,,Qantas,7405,QF7405,QFA7405
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:05:00+00:00,,Brisbane International,2024-01-23 01:35:00+00:00,,Qantas,7420,QF7420,QFA7420
+2024-01-23 00:00:00,scheduled,Shenyang,2024-01-23 00:40:00+00:00,,Changchun,2024-01-23 02:10:00+00:00,,Air China LTD,1088,CA1088,CCA1088
+2024-01-23 00:00:00,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),2024-01-23 00:10:00+00:00,,Xiamen,2024-01-23 01:30:00+00:00,,China Airlines,5991,CI5991,CAL5991
+2024-01-23 00:00:00,scheduled,Yancheng,2024-01-23 00:05:00+00:00,,Seoul (Incheon),2024-01-23 03:30:00+00:00,,YTO Cargo Airlines,9073,YG9073,HYT9073
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Air France,4022,AF4022,AFR4022
+2024-01-23 00:00:00,scheduled,Tontouta,2024-01-23 01:05:00+00:00,85,Singapore Changi,2024-01-23 07:10:00+00:00,,Aircalin,740,SB740,ACI740
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Firefly,7170,FY7170,FFM7170
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:40:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 07:50:00+00:00,,Myanmar Airways International,9588,8M9588,MMA9588
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Singapore Airlines,282,SQ282,SIA282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Vistara,8282,UK8282,VTI8282
+2024-01-23 00:00:00,scheduled,Auckland International,2024-01-23 01:20:00+00:00,,Singapore Changi,2024-01-23 06:45:00+00:00,,Air New Zealand,3282,NZ3282,ANZ3282
+2024-01-23 00:00:00,scheduled,Nanchang,2024-01-23 00:30:00+00:00,,Nanning,2024-01-23 02:50:00+00:00,,China Postal Airlines,9024,CF9024,CYZ9024
+2024-01-23 00:00:00,scheduled,Singapore Changi,2024-01-23 00:05:00+00:00,,Zurich,2024-01-23 06:10:00+00:00,,SWISS,177,LX177,SWR177
+2024-01-23 00:00:00,scheduled,Seoul (Incheon),2024-01-23 00:15:00+00:00,,Guangzhou Baiyun International,2024-01-23 03:10:00+00:00,,Korean Air,9319,KE9319,KAL9319
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Firefly,7146,FY7146,FFM7146
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Qantas,7341,QF7341,QFA7341
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Suvarnabhumi International,2024-01-23 05:40:00+00:00,,Thai Airways International,462,TG462,THA462
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:30:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 05:45:00+00:00,,Malaysia Airlines,128,MH128,MAS128
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:35:00+00:00,,Singapore Changi,2024-01-23 05:15:00+00:00,,Singapore Airlines,218,SQ218,SIA218
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Hong Kong International,2024-01-23 06:55:00+00:00,,Cathay Pacific,178,CX178,CPA178
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:00:00+00:00,,Kuala Lumpur International Airport (klia),2024-01-23 06:30:00+00:00,,AirAsia X,213,D7213,XAX213
+2024-01-23 00:00:00,scheduled,Lishe International Airport,2024-01-23 00:05:00+00:00,,Suvarnabhumi International,2024-01-23 03:35:00+00:00,,YTO Cargo Airlines,9017,YG9017,HYT9017
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 00:25:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Qantas,7445,QF7445,QFA7445
+2024-01-23 00:00:00,scheduled,Hangzhou,2024-01-23 00:10:00+00:00,,Kansai International,2024-01-23 04:50:00+00:00,,YTO Cargo Airlines,9133,YG9133,HYT9133
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 03:15:00+00:00,,Adelaide International Airport,2024-01-23 05:00:00+00:00,,Qantas,7448,QF7448,QFA7448
+2024-01-23 00:00:00,scheduled,Sydney Kingsford Smith Airport,2024-01-23 01:30:00+00:00,,Perth International,2024-01-23 03:35:00+00:00,,Qantas,7349,QF7349,QFA7349
+2024-01-23 00:00:00,scheduled,Beijing Daxing International Airport,2024-01-23 00:15:00+00:00,,Kota-Kinabalu International Airport,2024-01-23 05:45:00+00:00,,AirAsia,1561,AK1561,AXM1561
+2024-01-23 00:00:00,scheduled,Shenzhen,2024-01-23 00:15:00+00:00,,Madras International (Meenambakkam),2024-01-23 02:15:00+00:00,,SF Airlines,7069,O37069,CSS7069
+2024-01-23 00:00:00,scheduled,Horn Island,2024-01-23 01:00:00+00:00,,Badu Island,2024-01-23 01:20:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Qantas,5671,QF5671,QFA5671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,LATAM Airlines,5713,LA5713,LAN5713
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 06:10:00+00:00,,Jetstar,671,JQ671,JST671
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Qantas,5580,QF5580,QFA5580
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,KLM,3545,KL3545,KLM3545
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:15:00+00:00,,Ngurah Rai International,2024-01-23 01:25:00+00:00,,Jetstar,83,JQ83,JST83
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Qantas,5673,QF5673,QFA5673
+2024-01-23 00:00:00,scheduled,Darwin,2024-01-23 00:35:00+00:00,,Brisbane International,2024-01-23 04:55:00+00:00,,Jetstar,673,JQ673,JST673
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:45:00+00:00,,Qantas,7404,QF7404,QFA7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:10:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 02:38:00+00:00,,National Jet Express,7404,NC7404,JTE7404
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:40:00+00:00,,Hong Kong International,2024-01-23 07:30:00+00:00,,Cathay Pacific,156,CX156,CPA156
+2024-01-23 00:00:00,scheduled,Brisbane International,2024-01-23 00:45:00+00:00,,Melbourne - Tullamarine Airport,2024-01-23 04:05:00+00:00,,Qantas,7305,QF7305,QFA7305
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 00:20:00+00:00,,Singapore Changi,2024-01-23 04:16:00+00:00,,Singapore Airlines,8515,SQ8515,SIA8515
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 01:30:00+00:00,,Tan Son Nhat International,2024-01-23 05:55:00+00:00,,VietJet Air,82,VJ82,VJC82
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 03:10:00+00:00,,Perth International,2024-01-23 04:25:00+00:00,,Qantas,7359,QF7359,QFA7359
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Brisbane International,2024-01-23 02:42:00+00:00,,Texel Air,203,,XLR203
+2024-01-23 00:00:00,scheduled,Melbourne - Tullamarine Airport,2024-01-23 02:00:00+00:00,,Sydney Kingsford Smith Airport,2024-01-23 03:05:00+00:00,,Pionair Australia,7294,,SFZ7294
+2024-01-23 00:00:00,scheduled,Beijing Capital International,2024-01-23 00:20:00+00:00,,Wuxi,2024-01-23 02:10:00+00:00,,SF Airlines,6939,O36939,CSS6939
+2024-01-23 00:00:00,scheduled,Townsville International,2024-01-23 01:00:00+00:00,,Gold Coast (coolangatta),2024-01-23 02:43:00+00:00,,empty,,,
+2024-01-23 00:00:00,scheduled,Haneda Airport,2024-01-23 00:05:00+00:00,,Dubai,2024-01-23 06:55:00+00:00,,Emirates,313,EK313,UAE313
