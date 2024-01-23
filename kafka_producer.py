@@ -30,10 +30,10 @@ flight_schema = {
      'Flight Status': str,
      'Departure Airport': str,
      'Departure Scheduled': str,
-     'Delay-dep': Union[None,int],
+     'Delay-dep':int,
      'Arrival Airport': str,
      'Arrival Scheduled': str,
-     'Delay-arr':Union[None,int],
+     'Delay-arr':int,
      'Airline Name': str,
      'Flight Number': int,
      'Flight IATA': str,
@@ -64,19 +64,25 @@ if __name__ == "__main__":
     # Send data to Kafka topic
     for line in flight_data:
         # Cast the record_flight values based on the flight_schema
-        flight_data = {}
+        flight_data_dict = {}
         for key, value in flight_schema.items():
-            if line[key] != '':
-                flight_data[key] = value(line[key])
-            else:
-                flight_data[key] = None
+             raw_value = line[key]
+             if raw_value != '' and raw_value != 'Delay-dep'and raw_value != 'Delay-arr' and raw_value != 'Flight Number':
+                flight_data_dict[key] = value(raw_value)
+             else:
+                flight_data_dict[key] = None
+
 
         # Serialize the casted record and send it to Kafka
-        producer.send(flight_topic, value=flight_data)
-        print(f"Sent message to {flight_topic}: {flight_data}")
+        producer.send(flight_topic, value=flight_data_dict)
+        print(f"Sent message to {flight_topic}: {flight_data_dict}")
 
         time.sleep(1)
 
     # Flush and close the producer
     producer.flush()
     producer.close()
+
+
+
+
