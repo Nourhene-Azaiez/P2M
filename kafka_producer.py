@@ -6,8 +6,6 @@ import time
 
 import json
 
-from typing import Union
-
 
 #function to read csv file
 def read_csv(file_path):
@@ -26,18 +24,25 @@ def read_csv(file_path):
 
 #flight Schema 
 flight_schema = {
-     'Flight Date':str ,
-     'Flight Status': str,
-     'Departure Airport': str,
-     'Departure Scheduled': str,
-     'Delay-dep':int,
-     'Arrival Airport': str,
-     'Arrival Scheduled': str,
-     'Delay-arr':int,
-     'Airline Name': str,
-     'Flight Number': int,
-     'Flight IATA': str,
-     'Flight ICAO': str  
+            "hex":int,
+            "reg_number": str,
+            "flag": str,
+            "lat": float,
+            "lng": float,
+            "alt": float,
+            "dir": float,
+            "speed": int,
+            "flight_number":int,
+            "flight_icao": str,
+            "flight_iata": str,
+            "dep_icao": str,
+            "dep_iata": str,
+            "arr_icao":str ,
+            "arr_iata":str ,
+            "airline_icao": str,
+            "airline_iata": str,
+            "aircraft_icao": str,
+            "status": str,
 }
 
 if __name__ == "__main__":
@@ -67,7 +72,7 @@ if __name__ == "__main__":
         flight_data_dict = {}
         for key, value in flight_schema.items():
              raw_value = line[key]
-             if raw_value != '' and raw_value != 'Delay-dep'and raw_value != 'Delay-arr' and raw_value != 'Flight Number':
+             if raw_value != '' :
                 flight_data_dict[key] = value(raw_value)
              else:
                 flight_data_dict[key] = None

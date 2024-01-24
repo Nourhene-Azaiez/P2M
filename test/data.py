@@ -37,7 +37,7 @@ if response.status_code == 200:
         data_tuples.append(tuple(flight_data.values()))
 
     # Save data into CSV file
-    csv_filename = 'flight_data.csv'
+    csv_filename = 'flight_data_test.csv'
     with open(csv_filename, 'a', newline='') as file:
         writer = csv.writer(file)
 

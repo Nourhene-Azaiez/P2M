@@ -4,46 +4,56 @@ import json
 import time
 from datetime import datetime
 from dotenv import load_dotenv
+import os
 
 
 bootstrap_servers = 'localhost:9092'
 # Create a Kafka producer
 producer = KafkaProducer(bootstrap_servers=bootstrap_servers, value_serializer=lambda v: json.dumps(v).encode('utf-8'))
-api_key = os.getenv("API_KEY")
-
-base_url = 'https://api.jcdecaux.com/vls/v1/'
-endpoint = 'stations'
-country_code = 'FR'
+# Api airtraffic flight 
+load_dotenv()
+api_key = os.getenv("api_key")
+base_url = 'https://airlabs.co/api/v9/'
+endpoint = 'flights'
+#Kafka Topic
+flight_topic = "flight"
 
 while True:  # Infinite loop for continuous streaming, you may adjust this as needed
     try:
-        url = f'{base_url}{endpoint}?country_code={country_code}&apiKey={api_key}'
+        url = f"{base_url}{endpoint}?api_key={api_key}"
         response = requests.get(url)
 
         if response.status_code == 200:
-            data = response.json()
+            data = response.json()['response']
 
             for line in data:
-                utcfromtimestamp = datetime.utcfromtimestamp(int(line['last_update'])/1000).strftime('%Y-%m-%d %H:%M:%S')
                 position = {
-                    'lat': line['position']['lat'],
-                    'lon': line['position']['lng']
+                    'lat': line['lat'],
+                    'lon': line['lng'],
+                    "alt":line['alt'],
+                    "dir":line['dir']
                 }
 
                 d = {
-                    'numbers': line['number'],
-                    'contract_name': line['contract_name'],
-                    'banking': line['banking'],
-                    'bike_stands': line['bike_stands'],
-                    'available_bike_stands': line['available_bike_stands'],
-                    'available_bikes': line['available_bikes'],
-                    'address': line['address'],
-                    'status': line['status'],
-                    'position':position,
-                    'timestamps': utcfromtimestamp
+                    "hex":line['hex'],
+                    "reg_number":line['reg_number'],
+                    "flag":line['flag'],
+                    "position":position,
+                    "speed":line['speed'],
+                    "flight_number":line['flight_number'],
+                    "flight_icao":line['flight_icao'],
+                    "flight_iata":line['flight_iata'],
+                    "dep_icao":line['dep_icao'],
+                    "dep_iata":line['dep_iata'],
+                    "arr_icao":line['arr_icao'],
+                    "arr_iata":line['arr_iata'],
+                    "airline_icao":line['airline_icao'],
+                    "airline_iata":line['airline_iata'],
+                    "aircraft_icao":line['aircraft_icao'],
+                    "status":line['status'],
                 }
 
-                producer.send('bike', value=d)
+                producer.send('flight', value=d)
                 print(d)
                 time.sleep(1)
                 
