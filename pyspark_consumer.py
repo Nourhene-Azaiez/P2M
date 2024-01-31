@@ -3,7 +3,7 @@ from pyspark.sql import SparkSession
 from pyspark.conf import SparkConf
 from pyspark.sql.functions import *
 from pyspark.sql.types import *
-from pyspark.sql.functions import from_json , first, col
+from pyspark.sql.functions import from_json , first, col , when , length
 
 
 
@@ -61,6 +61,7 @@ kafka_data = spark \
 json_df = kafka_data.selectExpr("CAST(value AS STRING)") \
     .select(from_json("value", schema).alias("data")) \
     .select("data.*") \
+    .withColumn("hex", when(length("hex") == 6, col("hex")).otherwise(None))
 
 # Print the schema of the DataFrame
 json_df.printSchema()
