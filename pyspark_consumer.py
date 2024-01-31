@@ -67,7 +67,7 @@ json_df.printSchema()
 
 
 # Show the data read from Kafka on the console
-query = kafka_data \
+query = json_df \
     .writeStream \
     .outputMode("append") \
     .format("console") \
