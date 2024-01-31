@@ -93,8 +93,10 @@ final_result = json_df.join(
     updated_data["initial_speed"],
     updated_data["status"],
 )
-#filter result that flight is landed 
-final_result_filtered = final_result.filter(col("status") != "landed")
+# Add the filter condition to final_result
+final_result_filtered = final_result \
+    .filter(col("status") != "landed") \
+    .drop("flight_icao", "dep_icao", "arr_icao" , "airline_icao")
 # Show the data read from Kafka on the console
 query = final_result_filtered \
     .writeStream \
