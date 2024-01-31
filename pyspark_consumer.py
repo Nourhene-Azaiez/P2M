@@ -3,7 +3,7 @@ from pyspark.sql import SparkSession
 from pyspark.conf import SparkConf
 from pyspark.sql.functions import *
 from pyspark.sql.types import *
-from pyspark.sql.functions import from_json
+from pyspark.sql.functions import from_json , first, col
 
 
 
@@ -66,8 +66,36 @@ json_df = kafka_data.selectExpr("CAST(value AS STRING)") \
 json_df.printSchema()
 
 
+# update data to show real time flight 
+updated_data = json_df.groupBy("flight_icao").agg(
+    max("updated").alias("last_update_time"),
+    first("position.lat").alias("initial_lat"),
+    first("position.lon").alias("initial_lon"),
+    first("position.alt").alias("initial_alt"),
+    first("position.dir").alias("initial_dir"),
+    first("speed").alias("initial_speed"),
+    first("status").alias("initial_status"),
+)
+
+# Join avec le DataFrame initial pour obtenir les mises à jour
+final_result = json_df.join(
+    updated_data,
+    (json_df.flight_icao == updated_data.flight_icao) & (json_df.timestamp == updated_data.last_update_time),
+    "inner"
+).select(
+    json_df["*"],
+    updated_data["last_update_time"],
+    updated_data["initial_lat"],
+    updated_data["initial_lon"],
+    updated_data["initial_alt"],
+    updated_data["initial_dir"],
+    updated_data["initial_speed"],
+    updated_data["status"],
+)
+#filter result that flight is landed 
+final_result_filtered = final_result.filter(col("status") != "landed")
 # Show the data read from Kafka on the console
-query = json_df \
+query = final_result_filtered \
     .writeStream \
     .outputMode("append") \
     .format("console") \

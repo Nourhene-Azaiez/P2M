@@ -40,6 +40,7 @@ if response.status_code == 200:
             "airline_icao": flight.get('airline_icao', ''),
             "airline_iata": flight.get('airline_iata', ''),
             "aircraft_icao": flight.get('aircraft_icao', ''),
+            "updated":flight.get('updated',''),
             "status": flight.get('status', ''),
         }
 

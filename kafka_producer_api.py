@@ -50,6 +50,7 @@ while True:  # Infinite loop for continuous streaming, you may adjust this as ne
                     "airline_icao":line['airline_icao'],
                     "airline_iata":line['airline_iata'],
                     "aircraft_icao":line['aircraft_icao'],
+                    "updated":line['updated'],
                     "status":line['status'],
                 }
 
